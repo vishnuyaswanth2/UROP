@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/stat_button"
+    android:textAlignment="center"
+    tools:context=".page2">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="205dp"
+        android:layout_height="46dp"
+        android:text="@string/covid_19"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.1" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="207dp"
+        android:layout_height="136dp"
+        android:layout_marginTop="36dp"
+        app:layout_constraintEnd_toEndOf="@+id/textView4"
+        app:layout_constraintStart_toStartOf="@+id/textView4"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:srcCompat="@drawable/splash_screen"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/home_button"
+        android:layout_width="321dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="24dp"
+        android:text="@string/home"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+    <Button
+        android:id="@+id/donor_button"
+        android:layout_width="321dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="24dp"
+        android:text="Donar Registration"
+        app:layout_constraintEnd_toEndOf="@+id/home_button"
+        app:layout_constraintStart_toStartOf="@+id/home_button"
+        app:layout_constraintTop_toBottomOf="@+id/home_button" />
+
+    <Button
+        android:id="@+id/plasma_receiver_button"
+        android:layout_width="321dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="24dp"
+        android:text="Donar Finder"
+        app:layout_constraintEnd_toEndOf="@+id/donor_button"
+        app:layout_constraintStart_toStartOf="@+id/donor_button"
+        app:layout_constraintTop_toBottomOf="@+id/donor_button" />
+
+    <Button
+        android:id="@+id/logout_button"
+        android:layout_width="321dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="24dp"
+        android:text="@string/logout"
+        app:layout_constraintEnd_toEndOf="@+id/plasma_receiver_button"
+        app:layout_constraintStart_toStartOf="@+id/plasma_receiver_button"
+        app:layout_constraintTop_toBottomOf="@+id/plasma_receiver_button" />
+
+    <ImageButton
+        android:id="@+id/back_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/statistic_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_bback" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

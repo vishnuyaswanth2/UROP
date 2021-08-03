@@ -1,0 +1,60 @@
+com/example/covid_19/data/LoginRepository.java
+ com.example.covid_19.data.LoginRepository
+com/example/covid_19/plasma_page.java
+ com.example.covid_19.plasma_page
+ com.example.covid_19.plasma_page$1
+ com.example.covid_19.plasma_page$2
+ com.example.covid_19.plasma_page$3
+com/example/covid_19/ui/login/LoginFormState.java
+ com.example.covid_19.ui.login.LoginFormState
+com/example/covid_19/string.java
+ com.example.covid_19.string
+com/example/covid_19/BuildConfig.java
+ com.example.covid_19.BuildConfig
+com/example/covid_19/page1.java
+ com.example.covid_19.page1
+ com.example.covid_19.page1$1
+com/example/covid_19/ui/login/LoginViewModelFactory.java
+ com.example.covid_19.ui.login.LoginViewModelFactory
+com/example/covid_19/ui/login/LoginActivity.java
+ com.example.covid_19.ui.login.LoginActivity
+ com.example.covid_19.ui.login.LoginActivity$1
+ com.example.covid_19.ui.login.LoginActivity$2
+ com.example.covid_19.ui.login.LoginActivity$3
+ com.example.covid_19.ui.login.LoginActivity$4
+ com.example.covid_19.ui.login.LoginActivity$5
+com/example/covid_19/MainActivity.java
+ com.example.covid_19.MainActivity
+ com.example.covid_19.MainActivity$1
+ com.example.covid_19.MainActivity$2
+ com.example.covid_19.MainActivity$3
+ com.example.covid_19.MainActivity$4
+com/example/covid_19/donar_page.java
+ com.example.covid_19.donar_page
+ com.example.covid_19.donar_page$1
+ com.example.covid_19.donar_page$2
+com/example/covid_19/ui/login/LoginViewModel.java
+ com.example.covid_19.ui.login.LoginViewModel
+com/example/covid_19/ui/login/LoginResult.java
+ com.example.covid_19.ui.login.LoginResult
+com/example/covid_19/ui/login/LoggedInUserView.java
+ com.example.covid_19.ui.login.LoggedInUserView
+com/example/covid_19/data/Result.java
+ com.example.covid_19.data.Result
+ com.example.covid_19.data.Result$1
+ com.example.covid_19.data.Result$Error
+ com.example.covid_19.data.Result$Success
+com/example/covid_19/stat_page.java
+ com.example.covid_19.stat_page
+ com.example.covid_19.stat_page$1
+com/example/covid_19/data/LoginDataSource.java
+ com.example.covid_19.data.LoginDataSource
+com/example/covid_19/data/model/LoggedInUser.java
+ com.example.covid_19.data.model.LoggedInUser
+com/example/covid_19/page2.java
+ com.example.covid_19.page2
+ com.example.covid_19.page2$1
+ com.example.covid_19.page2$2
+ com.example.covid_19.page2$3
+ com.example.covid_19.page2$4
+ com.example.covid_19.page2$5

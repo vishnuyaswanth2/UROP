@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_appicon.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_appicon.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_button.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\stat_button.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_map2_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_map2_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_testbanner.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_testbanner.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flag_background.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_flag_background.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_flag.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_flag.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_map2_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_map2_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map2_background.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_map2_background.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_testbanner.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_testbanner.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_map2.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_map2.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_appicon_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_appicon_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_page2.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\layout\\activity_page2.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_statistic_button.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\statistic_button.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_appicon.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_appicon.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_flag_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_flag_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call_button.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\call_button.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_bg.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\spinner_bg.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_flag.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_flag.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_flag_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_flag_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_flag_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_flag_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_map2_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_map2_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map_bg.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\map_bg.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_flag_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_flag_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_static_button.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\static_button.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map2.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\map2.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_grey.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\white_grey.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_prevention3.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_prevention3.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_map2_round.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_map2_round.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_appicon_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_appicon_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_map2_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_map2_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_testbanner.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_testbanner.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stat_page.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\layout\\activity_stat_page.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send_sms_button.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\send_sms_button.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_flag_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_flag_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_testbanner.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_testbanner.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_appicon.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_appicon.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_flag_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_flag_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_flag_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_flag_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_message_circle.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_message_circle.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_testbanner.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_testbanner.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indianflag.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\indianflag.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_map2.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_map2.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_appicon_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_appicon_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_appicon.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_appicon.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_donar_page.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\layout\\activity_donar_page.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_map2.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_map2.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_map2_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_map2_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_flag_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_flag_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_flag.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_flag.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_appicon.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_appicon.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_appicon_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_appicon_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_appicon_round.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_appicon_round.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_flag.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_flag.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bback.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_bback.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_prevention1.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_prevention1.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_map2_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_map2_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_plasma_page.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\layout\\activity_plasma_page.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bell.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_bell.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_testbanner.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_testbanner.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_appicon_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_appicon_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_flag.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_flag.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_map2_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_map2_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_flag_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_flag_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_map2_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_map2_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_appicon_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_appicon_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_map2.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_map2.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_page1.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\layout\\activity_page1.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_appicon_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_appicon_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_appicon_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xhdpi\\ic_appicon_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_appicon.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_appicon.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_testbanner.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_testbanner.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_prevention2.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_prevention2.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_map2.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_map2.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_map2_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_map2_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_flag_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_flag_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_map2_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-hdpi\\ic_map2_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\splash_screen.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_appicon_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_appicon_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_flag.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_flag.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_forward_black_24dp.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_homebg.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\drawable\\ic_homebg.xml"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_map2.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_map2.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_appicon_foreground.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_appicon_foreground.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_flag_round.xml.flat",
+        "source": "D:\\vishnu\\Documents\\UROP\\COVID19\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_flag_round.xml"
+    }
+]
